@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/okanoya",
  "yomi": "おかのやかしゅう",
  "category": "私家集",
- "description": null,
+ "description": {
+  "kind": "私家集（他撰）",
+  "era": "江戸後期",
+  "author": "栗田土満（1737〜1811）",
+  "desc": "遠江国平尾の八幡宮の神主で、賀茂真淵に学んだ栗田土満の家集。子の栗田真菅が、写し誤りを防ぐために父に頼み込んで許しを得て板に彫ったと跋にいう。"
+ },
  "editions": [
   {
    "pid": "993386",
